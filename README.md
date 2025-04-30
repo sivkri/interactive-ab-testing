@@ -13,7 +13,7 @@ This repository contains a Streamlit web application for performing A/B testing 
 
 ## Setup Instructions
 
-### Option 1: Run locally with Python
+### Run locally with Python
 
 1. Clone the repository:
    ```bash
